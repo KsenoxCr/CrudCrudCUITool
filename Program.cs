@@ -64,7 +64,7 @@ class APIClient
 }
 
 
-class CrudCrudRESTAPIrequests
+class CrudcrudCUI
 {
     static readonly ConsoleColor titleColor = ConsoleColor.DarkYellow;
     static readonly ConsoleColor selectionColor = ConsoleColor.Green;
